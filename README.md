@@ -1,6 +1,6 @@
 # KMP Pharmacy (Pharmacy Management System)
 
-<p><a  href="https://github.com/kavindu-dilshan"><img  src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,vite,redux,tailwind,vscode,github"  width=350></a></p>
+<p><a  href="https://github.com/kavindu-dilshan"><img  src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,vite,redux,tailwind,vscode"  width=350></a></p>
 
 This repository contains the source code for a Pharmacy Management System web application developed using the MERN (MongoDB, Express.js, React, Node.js) stack. The project utilizes Vite as the local development server.
 
